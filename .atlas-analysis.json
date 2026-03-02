@@ -1,0 +1,198 @@
+{
+  "projectType": "general",
+  "projectName": "ChaiCode Cohort 2026",
+  "projectDescription": "A comprehensive web development learning cohort covering HTML, CSS, JavaScript fundamentals, development tools, and hands-on labs for aspiring developers.",
+  "theme": "almond",
+  "primaryColor": "#FF6B35",
+  "lightColor": "#FFE5D9",
+  "darkColor": "#C44536",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Getting Started",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "introduction",
+              "cohort-structure",
+              "getting-started"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Fundamentals",
+        "groups": [
+          {
+            "group": "HTML Basics",
+            "pages": [
+              "fundamentals/html/introduction",
+              "fundamentals/html/structure",
+              "fundamentals/html/text-elements",
+              "fundamentals/html/lists",
+              "fundamentals/html/links",
+              "fundamentals/html/images",
+              "fundamentals/html/forms",
+              "fundamentals/html/tables",
+              "fundamentals/html/semantic-html",
+              "fundamentals/html/multimedia"
+            ]
+          },
+          {
+            "group": "CSS Essentials",
+            "pages": [
+              "fundamentals/css/introduction",
+              "fundamentals/css/selectors",
+              "fundamentals/css/box-model",
+              "fundamentals/css/typography",
+              "fundamentals/css/colors",
+              "fundamentals/css/layout-flow",
+              "fundamentals/css/flexbox",
+              "fundamentals/css/grid",
+              "fundamentals/css/responsive-design",
+              "fundamentals/css/animations",
+              "fundamentals/css/keyframes"
+            ]
+          },
+          {
+            "group": "JavaScript Core",
+            "pages": [
+              "fundamentals/javascript/introduction",
+              "fundamentals/javascript/console",
+              "fundamentals/javascript/variables",
+              "fundamentals/javascript/data-types",
+              "fundamentals/javascript/numbers",
+              "fundamentals/javascript/strings",
+              "fundamentals/javascript/arrays",
+              "fundamentals/javascript/array-methods",
+              "fundamentals/javascript/objects",
+              "fundamentals/javascript/object-methods",
+              "fundamentals/javascript/conditionals"
+            ]
+          },
+          {
+            "group": "JavaScript Advanced",
+            "pages": [
+              "fundamentals/javascript/functions",
+              "fundamentals/javascript/this-keyword",
+              "fundamentals/javascript/call-bind-apply",
+              "fundamentals/javascript/new-keyword",
+              "fundamentals/javascript/prototypes"
+            ]
+          },
+          {
+            "group": "Web Architecture",
+            "pages": [
+              "fundamentals/architecture/client-server"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Labs & Projects",
+        "groups": [
+          {
+            "group": "HTML Labs",
+            "pages": [
+              "labs/html/foundation",
+              "labs/html/text-scrolls",
+              "labs/html/list-archives",
+              "labs/html/linking-portals",
+              "labs/html/gallery-of-images",
+              "labs/html/multimedia-theater",
+              "labs/html/form-chambers",
+              "labs/html/data-tables",
+              "labs/html/semantic-sanctuary",
+              "labs/html/final-construction"
+            ]
+          },
+          {
+            "group": "CSS Labs",
+            "pages": [
+              "labs/css/box-model",
+              "labs/css/typography",
+              "labs/css/palette",
+              "labs/css/decoration",
+              "labs/css/flow",
+              "labs/css/flexbox",
+              "labs/css/grid",
+              "labs/css/responsive",
+              "labs/css/animation",
+              "labs/css/keyframes"
+            ]
+          },
+          {
+            "group": "JavaScript Labs",
+            "pages": [
+              "labs/javascript/conditionals",
+              "labs/javascript/data-types",
+              "labs/javascript/data-types-foundation"
+            ]
+          },
+          {
+            "group": "Projects",
+            "pages": [
+              "projects/cursor-landing-page",
+              "projects/documentation-website"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tools & Setup",
+        "groups": [
+          {
+            "group": "Development Environment",
+            "pages": [
+              "tools/ides/introduction",
+              "tools/ides/vs-code",
+              "tools/ides/extensions"
+            ]
+          },
+          {
+            "group": "Terminal",
+            "pages": [
+              "tools/terminal/introduction",
+              "tools/terminal/basics",
+              "tools/terminal/commands"
+            ]
+          },
+          {
+            "group": "Version Control",
+            "pages": [
+              "tools/version-control/introduction",
+              "tools/version-control/need-for-version-control",
+              "tools/version-control/git-basics",
+              "tools/version-control/github",
+              "tools/version-control/workflow"
+            ]
+          },
+          {
+            "group": "AI Assistance",
+            "pages": [
+              "tools/ai-assistance/introduction"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Comprehensive HTML, CSS, and JavaScript curriculum",
+    "Hands-on labs and practical exercises for each topic",
+    "Progressive learning path from fundamentals to advanced concepts",
+    "Development tools and environment setup guides",
+    "Version control and Git/GitHub workflows",
+    "UI clone projects for real-world practice",
+    "Structured month-by-month learning progression"
+  ],
+  "publicApiSurface": [
+    "HTML Labs: Foundation, Forms, Tables, Semantic HTML, Multimedia",
+    "CSS Labs: Box Model, Flexbox, Grid, Animations, Responsive Design",
+    "JavaScript Labs: Conditionals, Data Types, Array Methods, Functions",
+    "Projects: Cursor Landing Page Clone, Documentation Website",
+    "Tools Guides: Terminal, IDEs (VS Code), Git/GitHub, AI Assistance",
+    "Core Concepts: Variables, Functions, Objects, Prototypes, This Keyword"
+  ]
+}
